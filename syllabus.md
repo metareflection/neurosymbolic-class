@@ -2,23 +2,23 @@
  
 CS252R: Advanced Topics in Programming Languages ...
 
-This term (Fall 2024): ... Programming Language Theory Implementation ...
+This term (Fall 2024): ... Neurosymbolic Programming ...
 
 Class meeting time: TR 11:15 – 12:30
 
 Class meeting room: SEC 1.307
 
-Course website: [https://plti.metareflection.club](https://plti.metareflection.club)
+Course website: [https://neurosymbolic.metareflection.club](https://neurosymbolic.metareflection.club)
 
 Instructor: [Nada Amin](https://namin.seas.harvard.edu) (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
 
-Teaching Fellow: Raffi Sanna (<a href="mailto:rsanna@g.harvard.edu">rsanna@g.harvard.edu</a>)
+Teaching Fellow: Matthew Retchin (<a href="mailto:mretchin@g.harvard.edu">mretchin@g.harvard.edu</a>)
 
 ## Course description
 
-In this graduate seminar, we will look at advanced topics in programming languages by learning how to implement the theory rules in a paper.
+In this graduate seminar, we will look at advanced topics in programming languages and machine learning.
 
-Topics include CLP(Set), type systems, synthesis, ...
+Topics include relaxing machines, combining Large Language Models (LLMs) and linguistic abstractions, ...
 
 Students will work on assignments and a final project.
 Each student will also present a paper and lead the discussion for one session.

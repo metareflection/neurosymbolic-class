@@ -1,3 +1,3 @@
 # Papers
 
-The list of papers will be collected on Sciwheel.
+The list of papers will be collected here.
