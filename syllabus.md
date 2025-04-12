@@ -12,7 +12,7 @@ Course website: [https://neurosymbolic.metareflection.club](https://neurosymboli
 
 Instructor: [Nada Amin](https://namin.seas.harvard.edu) (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
 
-Teaching Fellow: Matthew Retchin (<a href="mailto:mretchin@g.harvard.edu">mretchin@g.harvard.edu</a>)
+Teaching Fellow: [Matthew Retchin](https://mhr.ai) (<a href="mailto:mretchin@g.harvard.edu">mretchin@g.harvard.edu</a>)
 
 ## Course description
 
