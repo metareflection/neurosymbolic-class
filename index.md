@@ -6,9 +6,9 @@ We will study neurosymbolic systems with applications that include [theorem prov
 
 As a student, you will present a neurosymbolic paper of your choice, implement a common warm‑up assignment, and complete a semester‑long final project taking an original idea from design through implementation. By the end of the term, you'll have both the theoretical foundations and hands‑on experience needed to design and implement AI systems that formally reason with rigor and flexibility.
 
-- **Assignments:**
+<!-- - **Assignments:**
 - **Paper Presentation & Discussion:**
-- **Final Project:**
+- **Final Project:** -->
 
 ## More
 
