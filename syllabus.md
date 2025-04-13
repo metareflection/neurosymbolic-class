@@ -1,12 +1,12 @@
 # Syllabus
  
-CS252R: Advanced Topics in Programming Languages ...
+CS2520R: Advanced Topics in Programming Languages ...
 
-This term (Fall 2024): ... Neurosymbolic Programming ...
+This term (Fall 2025): ... Neurosymbolic Programming ...
 
 Class meeting time: TR 11:15 – 12:30
 
-Class meeting room: SEC 1.307
+Class meeting room: SEC TBD
 
 Course website: [https://neurosymbolic.metareflection.club](https://neurosymbolic.metareflection.club)
 
