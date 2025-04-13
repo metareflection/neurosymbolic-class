@@ -52,7 +52,7 @@ Feedback will be given on pre-defined assignments, lead meetings, on participati
 - What is the project exploring?
 - What are the methods used?
 - What problems does the project solve?
-- How does the system use program synthesis?
+- How does the system use neurosymbolic programming?
 - Is the project well-documented and usable by others?
 - For the interface, what are the primitives, the means of combination, and the means of abstraction?
 
