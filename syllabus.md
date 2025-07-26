@@ -6,7 +6,7 @@ This term (Fall 2025): ... Neurosymbolic Programming ...
 
 Class meeting time: TR 11:15 – 12:30
 
-Class meeting room: SEC TBD
+Class meeting room: SEC 1.307
 
 Course website: [https://neurosymbolic.metareflection.club](https://neurosymbolic.metareflection.club)
 
