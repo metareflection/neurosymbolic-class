@@ -8,9 +8,13 @@ First day of class.
 
 ### Thursday, September 4
 
+Prof. Amin and TF Matthew lead a discussion on the taxonomy of neurosymbolic programming.
+
 ## Week 2
 
 ### Tuesday, September 9
+
+TBD: staff led presentation and open discussion.
 
 ### Thursday, September 11
 
