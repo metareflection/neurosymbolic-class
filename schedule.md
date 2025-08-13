@@ -14,7 +14,9 @@ Prof. Amin and TF Matthew lead a discussion on the taxonomy of neurosymbolic pro
 
 ### Tuesday, September 9
 
-TBD: staff led presentation and open discussion.
+Gabriel Poesia, incoming Kempner fellow, will give a guest lecture.
+- (NeurIPS 2024) Minimo: _Learning Formal Mathematics From Intrinsic Motivation_ ([code](https://github.com/gpoesia/minimo), [paper](https://arxiv.org/abs/2407.00695))
+- (Dafny 2025) _dafny-annotator: AI-Assisted Verification of Dafny Programs_ ([code](https://github.com/metareflection/dafny-annotator), [paper](https://arxiv.org/abs/2411.15143), [blog](https://dafny.org/blog/2025/06/21/dafny-annotator/))
 
 ### Thursday, September 11
 
