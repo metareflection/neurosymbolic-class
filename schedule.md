@@ -5,10 +5,14 @@
 ### Tuesday, September 2
 
 First day of class.
+TF Matthew Retchin lead a discussion on the taxonomy of neurosymbolic programming.
 
 ### Thursday, September 4
 
-Prof. Amin and TF Matthew lead a discussion on the taxonomy of neurosymbolic programming.
+TF Matthew Retchin leads an introductory session.
+
+- _Hybrid computing using a neural
+network with dynamic external memory_ ([PDF])(https://gwern.net/doc/reinforcement-learning/model-free/2016-graves.pdf) by Graves et al. in Nature 2016.
 
 ## Week 2
 
