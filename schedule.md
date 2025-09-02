@@ -12,7 +12,7 @@ TF Matthew Retchin lead a discussion on the taxonomy of neurosymbolic programmin
 TF Matthew Retchin leads an introductory session.
 
 - _Hybrid computing using a neural
-network with dynamic external memory_ ([PDF])(https://gwern.net/doc/reinforcement-learning/model-free/2016-graves.pdf) by Graves et al. in Nature 2016.
+network with dynamic external memory_ ([PDF](https://gwern.net/doc/reinforcement-learning/model-free/2016-graves.pdf)) by Graves et al. in Nature 2016.
 
 ## Week 2
 
