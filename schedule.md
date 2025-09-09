@@ -24,11 +24,13 @@ network with dynamic external memory_ ([PDF](https://gwern.net/doc/reinforcement
 
 ### Thursday, September 11
 
-We set the schedule for the course.
+No class.
 
 ## Week 3
 
 ### Tuesday, September 16
+
+We set the schedule for the course.
 
 ### Thursday, September 18
 
