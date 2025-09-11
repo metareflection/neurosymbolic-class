@@ -44,6 +44,11 @@ We set the schedule for the course.
 
 ### Tuesday, September 30
 
+[Paul Krogmeier](https://paulkrog.github.io/), postdoctoral fellow, will give a guest lecture. Some papers:
+- _Synthesizing DSLs for Few-shot Learning_ (OOPSLA'25) ([PDF](https://paulkrog.github.io/papers/DSLSynth.pdf))
+- _Synthesizing Axiomatizations using Logic Learning_ (OOPSLA'22) ([PDF](https://paulkrog.github.io/papers/LasOOPSLA22.pdf))
+- _Languages with Decidable Learning: A Meta-theorem_ (OOPSLA'23) ([PDF](https://paulkrog.github.io/papers/MetaTheorem.pdf))
+
 ### Thursday, October 2
 
 ## Week 6
