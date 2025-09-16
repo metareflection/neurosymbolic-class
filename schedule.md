@@ -40,9 +40,9 @@ Prof. Nada Amin discusses her work at the intersection of formal verification an
 
 ### Tuesday, September 23
 
-Simon leads a session on (experimental) mathematical reasoning with LLMs.
+Simon leads a session on mathematical reasoning with LLMs.
 
-- **TODO**: determine reading of the day.
+- Reading of the day: _DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models_ ([PDF](https://arxiv.org/pdf/2402.03300)).
 - [Reasoning Gym](https://github.com/open-thought/reasoning-gym).
 - [Open Proof Corpus](https://proofcorpus.ai).
 
