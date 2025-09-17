@@ -125,6 +125,8 @@ Suhwan leads a session on neural causal modeling.
 
 ### Tuesday, October 28 (Project Proposals Due)
 
+Zekai leads a session focusing on _Statically Contextualizing Large Language Models with Typed Holes_ ([OOPSLA'24](https://dl.acm.org/doi/10.1145/3689728)).
+
 ### Thursday, October 30
 
 ## Week 10
