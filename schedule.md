@@ -129,6 +129,8 @@ Zekai leads a session focusing on _Statically Contextualizing Large Language Mod
 
 ### Thursday, October 30
 
+Discussion on project proposals.
+
 ## Week 10
 
 ### Tuesday, November 4
