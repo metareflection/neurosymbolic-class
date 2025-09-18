@@ -53,8 +53,7 @@ Some links:
 Simon leads a session on mathematical reasoning with LLMs.
 
 - Reading of the day:
-  - _DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning
-_ ([Nature'25]([https://www.nature.com/articles/s41586-025-09422-z])
+  - _DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning_ ([Nature'25]([https://www.nature.com/articles/s41586-025-09422-z]))
   - Extra: _DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models_ ([PDF](https://arxiv.org/pdf/2402.03300)).
 - [Reasoning Gym](https://github.com/open-thought/reasoning-gym).
 - [Open Proof Corpus](https://proofcorpus.ai).
