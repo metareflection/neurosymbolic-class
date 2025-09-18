@@ -36,6 +36,16 @@ We set the schedule for the course.
 
 Prof. Nada Amin discusses her work at the intersection of formal verification and LLMs.
 
+Some links:
+- Relaxed Machines: [namin/relaxed-machines](https://github.com/namin/relaxed-machines)
+- VerMCTS: [namin/llm-verified-with-monte-carlo-tree-search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
+- Dafny Sketcher: [namin/dafny-sketcher](https://github.com/namin/dafny-sketcher)
+- dafny-annotator: [metareflection/dafny-annotator](https://github.com/metareflection/dafny-annotator)
+- Software archaeology of Eurisko: [namin/eurisclo](https://github.com/namin/eurisclo)
+- LeanDisco: [namin/LeanDisco](https://github.com/namin/LeanDisco)
+- Holey: [namin/holey](https://github.com/namin/holey)
+- Argument Debugger & Argir: [namin/argument-debugger](https://github.com/namin/argument-debugger) & [namin/argir](https://github.com/namin/argir)
+
 ## Week 4
 
 ### Tuesday, September 23
