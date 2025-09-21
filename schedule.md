@@ -104,7 +104,6 @@ Mike leads a session on automated theorem proving.
 Jeremy leads a session on programming prompts.
 
 - _Prompting Is Programming: A Query Language for Large Language Models_ (PLDI'23) ([paper](https://dl.acm.org/doi/abs/10.1145/3591300)).
-- **TODO**: also consider other approaches to programming prompt, e.g. [DSPy](https://dspy.ai/).
 
 ## Week 7
 
@@ -116,7 +115,11 @@ Richael leads a session on jailbreaking and particular solutions involving PL+AI
 
 ### Thursday, October 16 (Assignment 1 Due)
 
-Joker class.
+[Dat Nguyen Thanh](https://github.com/datvo06), postdoctoral fellow, will give a guest lecture on prompt optimization and tool orchestration.
+
+- Reading of the day: _GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning_ ((paper)[https://arxiv.org/abs/2507.19457]).
+- Extra: _Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs_ ((paper)[https://arxiv.org/abs/2406.11695]).
+- Code: [DSPy](https://dspy.ai/).
 
 ## Week 8
 
