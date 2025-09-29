@@ -87,9 +87,17 @@ Valerio leads a session on program synthesis and library learning, with a focuse
 ### Thursday, October 2
 
 [Paul Krogmeier](https://paulkrog.github.io/), postdoctoral fellow, will give a guest lecture. Some papers:
-- _Synthesizing DSLs for Few-shot Learning_ (OOPSLA'25) ([PDF](https://paulkrog.github.io/papers/DSLSynth.pdf)).
+- Reading of the day: _Synthesizing DSLs for Few-shot Learning_ (OOPSLA'25) ([PDF](https://paulkrog.github.io/papers/DSLSynth.pdf)).
 - _Synthesizing Axiomatizations using Logic Learning_ (OOPSLA'22) ([PDF](https://paulkrog.github.io/papers/LasOOPSLA22.pdf)).
 - _Languages with Decidable Learning: A Meta-theorem_ (OOPSLA'23) ([PDF](https://paulkrog.github.io/papers/MetaTheorem.pdf)).
+
+Reading guide from Paul:
+- Focus on reading of the day.
+- First, read Sections 1, 2, and 4.
+- Second, read the problem statements in Sections 5 and 6.
+- Rest of the paper is very optional, including the proofs.
+- Read with an eye toward conceptual differences with DreamCoder and library learning
+- Paul will talk about "Axiom synthesis" and "Languages with...", but they can be skimmed.
 
 ## Week 6
 
