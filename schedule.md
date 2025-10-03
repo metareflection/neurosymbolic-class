@@ -105,7 +105,9 @@ Reading guide from Paul:
 
 Mike leads a session on automated theorem proving.
 
-**TODO**: select a set of papers to study, including a reading of the day.
+- Reading of the Day: _Reviving DSP for Advanced Theorem Proving in the Era of Reasoning Models_ ([paper](https://arxiv.org/abs/2506.11487))
+
+- Extra: _Proving Theorems Recursively_ ([paper](https://neurips.cc/virtual/2024/poster/93034))
 
 ### Thursday, October 9
 
