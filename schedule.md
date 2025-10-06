@@ -164,9 +164,13 @@ Jeffrey leads a session focusing on _SWE-Search: Enhancing Software Agents with 
 
 ### Thursday, November 6
 
+Theo leads a session on AlphaGeometry and AlphaGeometry 2.
+
 ## Week 11
 
 ### Tuesday, November 11
+
+Arya leads a session on using DSPy for his research, _SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization_ ([paper](https://arxiv.org/abs/2508.20258)).
 
 ### Thursday, November 13
 
