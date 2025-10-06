@@ -193,3 +193,5 @@ Thanksgiving.
 ### Tuesday, December 2
 
 Last day of class.
+
+TF Matthew Retchin presents his research.
