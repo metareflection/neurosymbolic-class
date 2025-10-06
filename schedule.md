@@ -160,6 +160,8 @@ Discussion on project proposals.
 
 ### Tuesday, November 4
 
+Jeffrey leads a session focusing on _SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement_ ([paper](https://arxiv.org/abs/2410.20285)).
+
 ### Thursday, November 6
 
 ## Week 11
