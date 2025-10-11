@@ -137,7 +137,7 @@ Richael leads a session on jailbreaking and particular solutions involving PL+AI
 
 Milligan leads a session on evaluating "intelligence".
 
-- _On the Measure of Intelligence_ ([paper](https://arxiv.org/abs/1911.01547)).
+- _On the Measure of Intelligence_ ([paper](https://arxiv.org/abs/1911.01547)). See also [ARC Prize](https://arcprize.org/).
 - _Sudoku-Bench: Evaluating creative reasoning with Sudoku variants_ ([paper](https://arxiv.org/abs/2505.16135)).
 
 ### Thursday, October 23
