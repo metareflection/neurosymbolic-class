@@ -121,7 +121,8 @@ Jeremy leads a session on programming prompts.
 
 Richael leads a session on jailbreaking and particular solutions involving PL+AI.
 
-- _R2-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning_ ([paper](https://arxiv.org/abs/2407.05557)).
+- Reading of the day: _R2-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning_ ([paper](https://arxiv.org/abs/2407.05557)).
+- Optional reading: _Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming_ ([paper](https://arxiv.org/abs/2501.18837))
 
 ### Thursday, October 16 (Assignment 1 Due)
 
