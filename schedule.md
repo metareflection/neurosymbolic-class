@@ -175,6 +175,8 @@ Theo leads a session on AlphaGeometry ([blog](https://deepmind.google/discover/b
 
 ### Thursday, November 13
 
+Each student briefly discusses a library/software artifact that they plan to use or that inspires them.
+
 ## Week 12
 
 ### Student Presentations of their Ongoing Projects
