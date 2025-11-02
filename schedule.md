@@ -161,7 +161,11 @@ Discussion on project proposals.
 
 ### Tuesday, November 4
 
-Jeffrey leads a session focusing on _SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement_ ([paper](https://arxiv.org/abs/2410.20285)).
+Jeffrey leads a session focusing on _SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement_ (ICRL'25 [paper](https://arxiv.org/abs/2410.20285)).
+
+Optional readings:
+- _SWE-bench: Can Language Models Resolve Real-World GitHub Issues?_ (ICLR'24 [paper](https://arxiv.org/abs/2310.06770))
+- _SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering_ (NeurIPS'24 [paper](https://arxiv.org/abs/2405.15793))
 
 ### Thursday, November 6
 
