@@ -175,19 +175,25 @@ Arya leads a session on using DSPy for his research, _SwizzlePerf: Hardware-Awar
 
 ### Tuesday, November 11
 
-Theo leads a session on AlphaGeometry ([blog](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/), [paper](https://www.nature.com/articles/s41586-023-06747-5)) and AlphaGeometry 2 ([paper](https://arxiv.org/pdf/2502.03544)).
+No class.
 
 ### Thursday, November 13
 
 Each student briefly discusses a library/software artifact that they plan to use or that inspires them.
 
-## Week 12
+Students can also present their ongoing projects.
 
-### Student Presentations of their Ongoing Projects
+## Week 12
 
 ### Tuesday, November 18
 
+We start with Theo leading on AlphaGeometry ([blog](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/), [paper](https://www.nature.com/articles/s41586-023-06747-5)) and AlphaGeometry 2 ([paper](https://arxiv.org/pdf/2502.03544)).
+
+We continue with student presentations of their ongoing projects.
+
 ### Thursday, November 20
+
+We continue with student presentations of their ongoing projects.
 
 ## Week 13
 
