@@ -185,13 +185,31 @@ Students can also present their ongoing projects.
 
 ## Week 12
 
+### Student Presentations of their Ongoing Projects
+
+_Each student has **10 minutes** to pitch their project and get feedback.
+The pitch should motivate, describe and situate the project and outline a plan for the rest of semester. What challenges do you anticipate? What milestones do you hope to achieve? How will you evaluate success? Feel free to structure your pitch to maximize feedback from the class._
+
 ### Tuesday, November 18
 
 We continue with student presentations of their ongoing projects.
 
+1. Dennis
+2. Richael
+3. Zekai
+4. Mike
+5. Suhwan
+6. Milligan
+
 ### Thursday, November 20
 
 We continue with student presentations of their ongoing projects.
+
+1. Valerio
+2. Theo
+3. Jeremy
+4. Simon
+5. Arya/Jeffrey
 
 ## Week 13
 
