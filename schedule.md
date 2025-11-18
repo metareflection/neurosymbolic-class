@@ -194,12 +194,11 @@ The pitch should motivate, describe and situate the project and outline a plan f
 
 We continue with student presentations of their ongoing projects.
 
-1. Dennis
+1. Mike
 2. Richael
 3. Zekai
-4. Mike
-5. Suhwan
-6. Milligan
+4. Suhwan
+5. Milligan
 
 ### Thursday, November 20
 
@@ -208,14 +207,16 @@ We continue with student presentations of their ongoing projects.
 1. Valerio
 2. Theo
 3. Jeremy
-4. Simon
 5. Arya/Jeffrey
+6. Dennis
 
 ## Week 13
 
 ### Tuesday, November 25
 
-Project workout.
+Remaining project presentations and project workout.
+
+1. Simon
 
 ### Thursday, November 27
 
