@@ -205,10 +205,9 @@ We continue with student presentations of their ongoing projects.
 We continue with student presentations of their ongoing projects.
 
 1. Valerio
-2. Theo
-3. Jeremy
-5. Arya/Jeffrey
-6. Dennis
+2. Jeremy
+3. Arya/Jeffrey
+4. Dennis
 
 ## Week 13
 
@@ -217,6 +216,7 @@ We continue with student presentations of their ongoing projects.
 Remaining project presentations and project workout.
 
 1. Simon
+2. Theo
 
 ### Thursday, November 27
 
